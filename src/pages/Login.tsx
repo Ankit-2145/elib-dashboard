@@ -2,9 +2,9 @@ import LoginForm from "../components/login-form";
 
 const LoginPage = () => {
   return (
-    <div>
+    <section className="bg-pink-300 pt-28 h-screen">
       <LoginForm />
-    </div>
+    </section>
   );
 };
 
